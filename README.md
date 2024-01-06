@@ -4,9 +4,9 @@
 
 
 ## Abstract 
-```
+
 In today's data-driven world, researchers are increasingly turning to Python as a powerful tool for data analysis, machine learning, and scientific computing. This comprehensive workshop will guide you through the intricacies of Python, from foundational programming concepts to advanced data analysis libraries for efficient data manipulation and data visualization to create compelling visual representations of your findings. Whether you're a seasoned MATLAB user seeking a more versatile alternative or a complete beginner eager to embark on your Python journey, this workshop will equip you with the skills and knowledge to effectively utilize Python in your research endeavours. It is a hands-on session.
-```
+
 
 # Setup
 
