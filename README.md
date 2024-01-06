@@ -28,20 +28,20 @@ Anaconda is available for Windows, Mac OS X, and Linux. Follow the links below t
 
 6. Select a destination folder to install Anaconda and click **Next**. Install Anaconda to a directory path that does not contain spaces or unicode characters. 
 
-![Alt text](image.png)
+![Alt text](/images/image.png)
 
 7. Choose whether to add Anaconda to your PATH environment variable or register Anaconda as your default Python. We don’t recommend adding Anaconda to your PATH environment variable, since this can interfere with other software.
-![Alt text](image-1.png)
+![Alt text](/images/image-1.png)
 
 8. Click **Install**.
 
 9. Click Next.
 
-![Alt text](image-2.png)
+![Alt text](/images/image-2.png)
 
 10 After a successful installation you will see the “Thanks for installing Anaconda” dialog box:
 
-![Alt text](image-3.png)
+![Alt text](/images/image-3.png)
 
 11. Click **finish**
 
@@ -50,7 +50,7 @@ Anaconda is available for Windows, Mac OS X, and Linux. Follow the links below t
     - Windows: `Click Start` > search for `Anaconda Prompt` > click to open.
 
     - macOS:   Use `Cmd+Space` to open Spotlight Search and type “Navigator” to open the program.
-    - run `conda install pip`
+    - run `conda install pip install numpy scipy pandas`
 
 13. Open jupyter notebook
 
@@ -60,10 +60,12 @@ Anaconda is available for Windows, Mac OS X, and Linux. Follow the links below t
 
 ## Option 2 : Anaconda cloud
 If you prefer not to install anything on your machine, you can use anaconda from the cloud
-![Alt text](image-4.png)
+![Alt text](/images/image-4.png)
 
 1. Create a free account or login in you already have one.
 
-![Alt text](image-5.png)
+![Alt text](/images/image-5.png)
 
 2. Click new notebook
+
+# Workshop
