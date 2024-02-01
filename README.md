@@ -69,3 +69,4 @@ If you prefer not to install anything on your machine, you can use anaconda from
 2. Click new notebook
 
 # Workshop
+
